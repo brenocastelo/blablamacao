@@ -4,7 +4,9 @@ To run this project follows de tips:
 
 ### Clone the repository
 
-`git clone`
+`git clone git@github.com:brenocastelo/blablamacao.git` using ssh
+
+`git clone https://github.com/brenocastelo/blablamacao.git` using https
 
 ### Install dependencies
 `yarn`
